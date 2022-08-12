@@ -1,0 +1,25 @@
+{
+  "name": "ceth-plugin-cnft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YErikOhtake/ceth-plugin-cnft.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YErikOhtake/ceth-plugin-cnft/issues"
+  },
+  "homepage": "https://github.com/YErikOhtake/ceth-plugin-cnft#readme",
+  "dependencies": {
+    "ethereumjs-common": "^1.5.1",
+    "ethereumjs-tx": "^2.1.2",
+    "eventemitter2": "^6.4.3",
+    "web3": "^1.2.9"
+  }  
+}
